@@ -1,4 +1,4 @@
-- cy用的常用函数
+- cy1用的常用函数
   - arrSortByAttribute 数组是按某属性排序
   - transformArr 数组相关操作 
     ```javascript
