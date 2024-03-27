@@ -1,6 +1,6 @@
 {
   "name": "cy_common_fn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "晁阳常用函数",
   "main": "index.js",
   "scripts": {
