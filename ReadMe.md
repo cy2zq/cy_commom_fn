@@ -1,4 +1,4 @@
-- ChaoYang常用函数包1
+- ChaoYang常用函数包
   - arrSortByAttribute 数组是按某属性排序
   - transformArr 数组相关操作 
     ```javascript
