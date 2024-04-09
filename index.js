@@ -1,4 +1,5 @@
 const { createTimeUnitListByTimeRange } = require("./other");
+const { setCookie, getCookie, deleteCookie } = require("./cookieHandler");
 /*
  * $param 数组 属性（数值） 规则：默认asc，
  * @return
@@ -143,4 +144,7 @@ module.exports = {
   toFullScreen,
   exitFullscreen,
   createTimeUnitListByTimeRange,
+  deleteCookie,
+  getCookie,
+  setCookie,
 };
